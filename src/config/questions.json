@@ -1,0 +1,16 @@
+{
+    "questions":[
+       {  "question":"what is the current year",
+          "options":["2019","2020","2021","2018"],
+          "answer":"2020"
+       },
+       {  "question":"What is the current Month",
+          "options":["June","July","March","April"],
+          "answer":"June"
+       },
+       {  "question":"Name of national bird",
+          "options":["Peacock","Sparrow","Peigion","Sunbird"],
+          "answer":"Peacock"
+       }
+    ]
+}
